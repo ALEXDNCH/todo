@@ -1,0 +1,6 @@
+/* Сброс стилей для модального окна */
+.modal-reset > :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
