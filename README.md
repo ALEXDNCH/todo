@@ -26,7 +26,7 @@
 
 4. Запустите приложение:
    ```bash
-   npm run dev
+   npm run start
 
 5. Откройте приложение в браузере:
-   http://localhost:5173
+   http://localhost:8888
